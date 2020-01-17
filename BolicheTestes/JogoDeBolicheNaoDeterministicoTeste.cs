@@ -44,5 +44,6 @@ namespace BolicheTestes
         {
             Assert.Equal(300, jogoDeBoliche.CalcularPontuacao());
         }
+
     }
 }

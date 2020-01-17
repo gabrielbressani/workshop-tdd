@@ -7,5 +7,6 @@ namespace Boliche.Api
     {
         [Get("/arremessos")]
         Task<ArremessosResponse> ObterArremessos();
+
     }
 }
